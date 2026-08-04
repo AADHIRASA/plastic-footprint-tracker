@@ -1,6 +1,6 @@
 
 Plastic Receipt
-Project Documentation
+
 
 
 Plastic Footprint Tracker
