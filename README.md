@@ -3,7 +3,7 @@
 
 A simple interactive tool that estimates daily single-use plastic footprint from 5 quick questions. Built with AI assistance for a community health awareness programme.
 
-Live tool: tinyurl.com/yh59y4x5
+Live tool: tinyurl.com/yh59y4x5s
 Source code: github.com/AADHIRASA/plastic-footprint-tracker
 
 ---
