@@ -22,7 +22,7 @@ Web version: index.html — Browser-based receipt, works offline
 Flyer: plastic-receipt-flyer.png — Printed handout with scannable QR code
 
 ## Quick Start
-
+ssss
 Open index.html in any browser, or scan the QR code on the flyer.
 
 ## Screenshots
